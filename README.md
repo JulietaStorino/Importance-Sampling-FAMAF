@@ -1,8 +1,5 @@
-# Trabajo Practico Especial - Modelos Y Simulacion 2023
-Trabajo practico especial de la materia Modelos y Simulacion de la Universidad Nacional de Córdoba.
-
-## Integrante
-- [Julieta Storino](https://github.com/JulietaStorino)
+# Trabajo Práctico Especial - Modelos Y Simulacion 2024
+Trabajo práctico especial de la materia _Modelos y Simulación_ de la _Universidad Nacional de Córdoba_.
 
 ## Enunciado
 El enunciado del trabajo practico se encuentra en el archivo [Consignas.ipynb](Consignas.ipynb).
